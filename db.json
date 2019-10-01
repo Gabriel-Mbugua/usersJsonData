@@ -2,6 +2,7 @@
   "users" : [
  {"username": "Bret", "password" : "1111"},
  {"username": "David", "password" : "2222"},
- { "username": "Joseph", "password" : "3333"}
+ { "username": "Joseph", "password" : "3333"},
+ { "username": "Nevyll", "password" : "4444"}
 	]
 }
